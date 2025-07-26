@@ -35,7 +35,7 @@ function App() {
         ))}
       </ul>
       <div>
-        app successfully deployed by pratik meshram!
+        app successfully deployed by pratikj!
       </div>
       <button onClick={signOut}>Sign out</button>
     </main>
